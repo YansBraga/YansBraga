@@ -1,10 +1,5 @@
-<h1 align="center">Olá, eu sou Yan Braga 👋</h1>
+<h1 align="center">Olá, meu nome é Yan 👋</h1>
 <h3 align="center">Desenvolvedor Back-End e estudante de Sistemas de Informação.</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YansBraga&label=Profile%20views&color=0e75b6&style=flat" alt="Contador de Visitas do Perfil" />
-</p>
-
 Sou um desenvolvedor focado no ecossistema Back-End, com uma grande paixão pela criação de sistemas empresariais que resolvem problemas reais. Meu principal objetivo é projetar e construir soluções para automatizar tarefas e otimizar a organização de empresas como um todo.
 
 - 🔭 Atualmente estou focado no desenvolvimento de um **programa central para uma empresa de varejo**, aplicando conceitos de arquitetura robusta e integração de sistemas.
