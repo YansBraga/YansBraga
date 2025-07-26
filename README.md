@@ -37,8 +37,8 @@ Sou um desenvolvedor focado no ecossistema Back-End, com uma grande paixão pela
 
 <h3 align="left">Estatísticas do GitHub:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&locale=pt-br&theme=tokyonight" alt="Estatísticas do GitHub de Yan Braga" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&locale=pt-br&theme=tokyonight" alt="Linguagens mais usadas por Yan Braga" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YansBraga&show_icons=true&locale=pt-br&theme=tokyonight" alt="Estatísticas do GitHub de Yan Braga" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YansBraga&layout=compact&locale=pt-br&theme=tokyonight" alt="Linguagens mais usadas por Yan Braga" />
 </p>
 
 ---
